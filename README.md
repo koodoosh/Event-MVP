@@ -3,9 +3,9 @@
 A full-stack MVP for a digital event ticketing system. This application allows users to register, log in, view events, book tickets, and access their booked tickets with basic membership functionality.
 
 ## 📁 Project Structure
-event-ticketing-mvp/
-├── client/      # React frontend
-└── server/      # Node.js + Express + MongoDB backend
+- event-ticketing-mvp/
+- ├── client/      # React frontend
+- └── server/      # Node.js + Express + MongoDB backend
 
 ---
 
